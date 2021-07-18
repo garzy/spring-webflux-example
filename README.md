@@ -1,8 +1,8 @@
-#Spring Webflux REST Service Example with SQL Database
+# Spring Webflux REST Service Example with SQL Database
 
 _It's only an example of Spring-Webflux usage_
 
-##What has been done here?
+## What has been done here?
 
 1. CSV Loading file with [OpenCSV](http://opencsv.sourceforge.net/)
 2. Auto-mapping of loaded CSV data to model entities with [MapStruct](https://mapstruct.org/)
